@@ -1,0 +1,8 @@
+<html>
+<head>
+    <title>Greet App</title>
+</head>
+<body>
+    <h1>{{user}}Good Afternoon! Welcome to FDP on fullstack development</h1>
+</body>
+</html>
